@@ -1,12 +1,12 @@
 {
   "name": "frontcast-api-db",
-  "json-server": "^0.17.3"
+  "version": "1.0.0",
   "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "^1.0.0"
+    "json-server": "^0.17.3"
   }
 }
